@@ -8,4 +8,9 @@ Multiple Vulnerabilities
 * [CVE-2019-19225: DSL-2680 Broken Access Control - Change DNS servers](CVE-2019-19225.md)
 * [CVE-2019-19226: DSL-2680 Broken Access Control - Enable/Disable MAC address filter](CVE-2019-19226.md)
 
-
+## References
+* https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19222
+* https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19223
+* https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19224
+* https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19225
+* https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19226
