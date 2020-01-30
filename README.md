@@ -1,5 +1,7 @@
 # DSL-2680
-Multiple Vulnerabilities 
+**Affected product:** D-Link DSL-2680 - Firmware: EU_1.0    
+**Affected Component:** D-Link DSL-2680: Web Administration Interface    
+**CVE:** CVE-2019-19222, CVE-2019-19223, CVE-2019-19224, CVE-2019-19225, CVE-2019-19226    
 
 ## Table of contents
 * [CVE-2019-19222: Stored XSS in DSL-2680 Web Administration Interface](CVE-2019-19222.md)    
