@@ -12,6 +12,7 @@
 * [CVE-2019-19226: DSL-2680 Broken Access Control - Enable/Disable MAC address filter](CVE-2019-19226.md)
 
 ## References
+* https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10161
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19222
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19223
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-19224
